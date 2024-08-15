@@ -1,0 +1,13 @@
+{
+  "name": "native-to-framework",
+  "version": "0.0.0",
+  "description": "A test repo for embedding native web components into framework components.",
+  "license": "ISC",
+  "workspaces": [
+    "native",
+    "angular"
+  ],
+  "dependencies": {
+    "@ntf/native": "*"
+  }
+}

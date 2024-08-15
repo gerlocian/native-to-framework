@@ -1,0 +1,7 @@
+{
+  "name": "@ntf/native",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "A workspace for the native web components to embed.",
+  "main": "src/index.mjs"
+}
